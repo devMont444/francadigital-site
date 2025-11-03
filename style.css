@@ -1,0 +1,20 @@
+body {
+    background-image:  url("https://www.sabornamesa.com.br/media/k2/items/cache/7a0c9d8bd9eadf879f0011817e8c2396_XL.jpg");
+
+font-family :'Courier New', Courier, monospace, system-ui;
+
+}
+
+p {
+
+
+color: rgb(255, 0, 0);
+}
+
+.belo {
+    color: rgb(130, 0, 0);
+}
+
+#corunica {
+    color: indigo;
+}
