@@ -12,7 +12,7 @@ body {
   width: 100%;
   box-sizing: border-box;
   padding: 20px 32px ;
-  background-color: aliceblue;
+  background-color: rgb(255, 251, 251);
   display: flex;
   box-shadow:0 10px 24px rgba(37, 37, 37, 0.822);
   flex-wrap: wrap;
